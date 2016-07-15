@@ -35,7 +35,7 @@
   * Probe
   * circ文件初探
   * 自动化方法（使用python）
-  * Worked Example（GRP or 内存矩阵？）
+  * Worked Example（GPR or 内存矩阵？）
  
  
  ### 6、挑战题
