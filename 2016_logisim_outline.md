@@ -15,30 +15,30 @@
 ### 3、组合电路
  分为七个Unit
  * 子电路（使用原视频）（video）
- * **##TODO** quiz（猜测可以用个改错题）（quiz）
+ * 客观改错题（quiz）
  * Wire budles(使用原视频）（video）
  * wire color 连线题（quiz）
  * 组合逻辑分析(使用原视频）（video）
  * 给复杂电路求真值表（quiz）
  * 使用组合分析工具化简表达式（Worked Example ）
  
- ### 4、时序电路 **##TODO**
+### 4、时序电路 **##TODO**
   分为？个Unit
   * 时序相关部件介绍和模拟操作（new video）
   * quiz？
-  * ....
+  * RS触发器(new video)
   * 循环累加电路（使用原视频）（worked example）
   
- ### 5、走向应用与实战（纯视频？）
+### 5、走向应用与实战（纯视频？）
   * Memory
   * Logging
   * Probe
   * circ文件初探
   * 自动化方法（使用python）
-  * Worked Example（GPR or 内存矩阵？）
+  * Worked Example（自动化 GPR or 内存矩阵？）
  
  
- ### 6、挑战题
+### 6、挑战题
  考虑让其画一个如下的自动机
  串行输入8位2进制数，
  输入完毕后输出是否是3的倍数。
