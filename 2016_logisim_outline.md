@@ -22,20 +22,18 @@
  * 给复杂电路求真值表（quiz）
  * 使用组合分析工具化简表达式（Worked Example ）
  
-### 4、时序电路 **##TODO**
-  分为？个Unit
+### 4、时序电路 
   * 时序相关部件介绍和模拟操作（new video）
-  * quiz？
   * RS触发器(new video)
   * 循环累加电路（使用原视频）（worked example）
   
-### 5、走向应用与实战（纯视频？）
+### 5、走向应用与实战
   * Memory
   * Logging
   * Probe
   * circ文件初探
   * 自动化方法（使用python）
-  * Worked Example（自动化 GPR or 内存矩阵？）
+  * Worked Example（自动化 GPR ）
  
  
 ### 6、挑战题
