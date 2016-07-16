@@ -32,7 +32,7 @@
   * Logging
   * Probe
   * circ文件初探
-  * 自动化方法（使用python）
+  * 自动化方法（使用python,new video）
   * Worked Example（自动化 GPR ）
  
  
